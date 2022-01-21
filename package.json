@@ -1,0 +1,24 @@
+{
+  "name": "isbn-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lookup-isbn.js",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edward-Lombe/isbn-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edward-Lombe/isbn-list/issues"
+  },
+  "homepage": "https://github.com/Edward-Lombe/isbn-list#readme"
+}
